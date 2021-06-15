@@ -11,6 +11,10 @@ def webhook():
     fulfillmentText = ''
     query_result = req.get('queryResult')
     if query_result.get('action') == 'get.address':
+        ### Perform set of executable code
+        ### if required
+        ### ...
+
         fulfillmentText = "Hi"
     return {
             "fulfillmentText": fulfillmentText,
