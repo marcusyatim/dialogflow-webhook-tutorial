@@ -1,4 +1,4 @@
-# Google Dialogflow with Fulfillment. Webhook and Python Flask!
+# Google Dialogflow with Fulfillment, Webhook and Python Flask!
 
 ### Medium Story
 To read all about this, visit my [Medium story](https://marcusyatim.medium.com/google-dialogflow-with-fulfillment-webhook-and-python-flask-6b3c44dbeef0)!
